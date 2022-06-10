@@ -1,0 +1,2 @@
+StoreSalesman{salesmanCnic=157245, salesmanName='Amir Khan', salesmanAddress='Rawalpindi', salesmanDob=2021-12-13, salesmanPhoneNo='+921456', salesmanLoginUserName='abc', salesmanLoginPassword='abc'}
+StoreSalesman{salesmanCnic=1597532541, salesmanName='Zain Ul Abidin', salesmanAddress='Rawalpindi Cantt', salesmanDob=2021-08-02, salesmanPhoneNo='+921456987', salesmanLoginUserName='zain123', salesmanLoginPassword='zain123'}

@@ -1,0 +1,2 @@
+StorePharmacist{pharmacistCnic=159753, pharmacistName='Khan', pharmacistAddress='Islmabad', pharmacistDob=2021-09-26, pharmacistPhoneNo='+92145632', pharmacistLicenseNo='123', pharmacistLoginUserName='159753', pharmacistLoginPassword='123'}
+StorePharmacist{pharmacistCnic=1526241, pharmacistName='Bilal Saeed Malik', pharmacistAddress='DHA, Islamabad', pharmacistDob=2020-09-28, pharmacistPhoneNo='+98541236', pharmacistLicenseNo='SBZ-1902', pharmacistLoginUserName='bilal', pharmacistLoginPassword='bilal1'}

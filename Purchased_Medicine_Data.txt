@@ -1,0 +1,15 @@
+PurchasedMedicines{srNo=0, drugCode='12345AjJSC', medicineName='Nuberol Forte', batchNo='123-AJH', medicineExpiryDate=2023-12-02, amount=50, quantity=5, unitPrice=10, billNo='ABC_STR63249235'}
+PurchasedMedicines{srNo=0, drugCode='ABX120', medicineName='Calamox', batchNo='AXZWQA-123', medicineExpiryDate=2024-12-07, amount=22, quantity=2, unitPrice=11, billNo='ABC_STR-30666273'}
+PurchasedMedicines{srNo=0, drugCode='12345AjJSC', medicineName='Nuberol Forte', batchNo='123-AJH', medicineExpiryDate=2023-12-02, amount=100, quantity=10, unitPrice=10, billNo='ABC_STR-1050717686'}
+PurchasedMedicines{srNo=0, drugCode='ABC-121', medicineName='Burfen', batchNo='AHCAZ-1920_AZ', medicineExpiryDate=2023-12-16, amount=55, quantity=1, unitPrice=55, billNo='ABC_STR-192971401'}
+PurchasedMedicines{srNo=0, drugCode='12345AjJSC', medicineName='Nuberol Forte', batchNo='123-AJH', medicineExpiryDate=2023-12-02, amount=500, quantity=50, unitPrice=10, billNo='ABC_STR813435080'}
+PurchasedMedicines{srNo=0, drugCode='AZ-121', medicineName='Corex-D', batchNo='AZXQOP-123-AX', medicineExpiryDate=2022-12-03, amount=385, quantity=7, unitPrice=55, billNo='ABC_STR2043735354'}
+PurchasedMedicines{srNo=0, drugCode='QW12-123', medicineName='Lapiget', batchNo='BAT12-3123', medicineExpiryDate=2023-12-08, amount=50, quantity=5, unitPrice=10, billNo='ABC_STR-1971287985'}
+PurchasedMedicines{srNo=0, drugCode='ABX120', medicineName='Calamox', batchNo='AXZWQA-123', medicineExpiryDate=2024-12-07, amount=506, quantity=46, unitPrice=11, billNo='ABC_STR2146308424'}
+PurchasedMedicines{srNo=0, drugCode='ABX120', medicineName='Calamox', batchNo='AXZWQA-123', medicineExpiryDate=2024-12-07, amount=506, quantity=46, unitPrice=11, billNo='ABC_STR1093325661'}
+PurchasedMedicines{srNo=0, drugCode='ABX120', medicineName='Calamox', batchNo='AXZWQA-123', medicineExpiryDate=2024-12-07, amount=506, quantity=46, unitPrice=11, billNo='ABC_STR1101698191'}
+PurchasedMedicines{srNo=0, drugCode='ABX120', medicineName='Calamox', batchNo='AXZWQA-123', medicineExpiryDate=2024-12-07, amount=506, quantity=46, unitPrice=11, billNo='ABC_STR2017332175'}
+PurchasedMedicines{srNo=0, drugCode='KK-121', medicineName='Klaricid', batchNo='SDCA-101-AS6', medicineExpiryDate=2023-01-07, amount=50, quantity=2, unitPrice=25, billNo='ABC_STR540051285'}
+PurchasedMedicines{srNo=0, drugCode='KK-121', medicineName='Klaricid', batchNo='SDCA-101-AS6', medicineExpiryDate=2023-01-07, amount=100, quantity=4, unitPrice=25, billNo='ABC_STR-918809872'}
+PurchasedMedicines{srNo=0, drugCode='12345AjJSC', medicineName='Nuberol Forte', batchNo='123-AJH', medicineExpiryDate=2023-12-02, amount=10, quantity=1, unitPrice=10, billNo='ABC_STR-1481254756'}
+PurchasedMedicines{srNo=0, drugCode='AQ1245', medicineName='Pandol Extra', batchNo='QA-121-12A', medicineExpiryDate=2024-12-24, amount=20, quantity=2, unitPrice=10, billNo='ABC_STR-1504345147'}
